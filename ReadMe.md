@@ -1,5 +1,5 @@
 # 💫 About Me:
- sou um estudante de HTML e CSS  do curso HTML5 e CSS,<br> feito por Gustavo Guanabara do canal Curso em Video.<br> Meu objetivo com esse curso é ter uma "formação"<br> para começar a usar html e css no trabalho
+ Sou um estudante de HTML e CSS  do curso HTML5 e CSS,<br> feito por Gustavo Guanabara do canal Curso em Video.<br> Meu objetivo com esse curso é ter uma "formação"<br> para começar a usar html e css no trabalho
 
 
 ## 🌐 Socials:
